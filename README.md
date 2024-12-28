@@ -1,8 +1,8 @@
 # Breast Cancer Diagnosis Using Machine Learning 
 
 This repository contains the following files:
-- **`CancerDiagnosis.ipynb`**: The main Jupyter Notebook containing the implementation of data preprocessing, model training, evaluation, and deployment.
-- **`Cancer.csv`**: The dataset used in this project, which includes 30 computed features derived from fine needle aspirates of breast masses.
+- **[`CancerDiagnosis.ipynb`](./CancerDiagnosis.ipynb)**: The main Jupyter Notebook containing the implementation of data preprocessing, model training, evaluation, and deployment.
+- **[`Cancer.csv`](./Cancer.csv)**: The dataset used in this project, which includes 30 computed features derived from fine needle aspirates of breast masses.
 
 This project was done in collaboration with Lord Kavi, Prangya Parida, and Mitra Mansouri. It focuses on leveraging machine learning (ML) to enhance the accuracy of **Breast Cancer Diagnosis**, a critical aspect in the fight against one of the leading causes of mortality among women. Accurate and timely diagnosis is essential to improving treatment outcomes and saving lives.
 
